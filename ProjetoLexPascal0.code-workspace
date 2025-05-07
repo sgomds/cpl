@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "ProjetoLexPascal"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"LexPascal/src",
+			""
+		]
+	}
+}
